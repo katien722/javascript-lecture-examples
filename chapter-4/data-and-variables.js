@@ -8,13 +8,14 @@
 
 // TODO: Change the values for each string
 // Remember that quotes within a quote require using single quotes
-let emptyString = ""; // no characters
+let emptyString = "emptyString"; // no characters
 let space = ""; // space only
 let zeeOrZed = ""; // single letter
 let farmBoy = ""; // single word
 let manInBlack = ""; // multiple words
 let memorableQuote = ''; // quotes inside quotes
 let rottenTomatoesScore = ""; // numbers, but as a string
+console.log(emptyString);
 
 
 /* THE NUMBER */
