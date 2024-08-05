@@ -8,22 +8,33 @@
 
 // TODO: Change the values for each string
 // Remember that quotes within a quote require using single quotes
-let emptyString = "emptyString"; // no characters
-let space = ""; // space only
-let zeeOrZed = ""; // single letter
-let farmBoy = ""; // single word
-let manInBlack = ""; // multiple words
-let memorableQuote = ''; // quotes inside quotes
-let rottenTomatoesScore = ""; // numbers, but as a string
-console.log(emptyString);
+let emptyString = "'empty'"; // no characters
+let space = "'space'"; // space only
+let zeeOrZed = "zeeOrZed"; // single letter
+let farmBoy = "Pauly Shore"; // single word
+let manInBlack = "Will Smith"; // multiple words
+let memorableQuote = '"Practice makes permanent"'; // quotes inside quotes
+let rottenTomatoesScore = "92.0"; // numbers, but as a string
+// console.log(emptyString);
+// console.log(space);
+// console.log(zeeOrZed);
+// console.log(farmBoy);
+// console.log(manInBlack);
+// console.log(memorableQuote);
+// console.log(rottenTomatoesScore);
+
+
 
 
 /* THE NUMBER */
 
 // TODO: Change the values for each number
-let numberOfOutlaws = 0; // integer
-let mostlyDead = 0; // decimal
-let energyLevelAfterRevival = 0; // negative
+let numberOfOutlaws = 3; // integer
+let mostlyDead = 2; // decimal
+let energyLevelAfterRevival = -1; // negative
+console.log(numberOfOutlaws);
+console.log(mostlyDead);
+console.log(energyLevelAfterRevival);
 
 
 /**** PRINTING TO THE CONSOLE ****/
